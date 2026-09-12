@@ -199,6 +199,8 @@ ClientBin/
 *.dbproj.schemaview
 *.jfm
 *.pfx
+# Private keys generated locally for development certificates
+certificates/*.key
 *.publishsettings
 node_modules/
 orleans.codegen.cs
